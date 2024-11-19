@@ -11,25 +11,27 @@ cover_local: "https://github.com/breatheco-de/content/blob/master/src/content/le
 
 ---
 
-Welcome!! 🤩👏 My name is Alejandro, and I'm typing these words after years of teaching code and changing lives. Please, I beg you to read until the end, I will try my best not to bore you!
+Welcome!! 🤩👏
 
-## What you already know
+My name is Alejandro, and I'm typing these words after years of teaching code and changing lives. Please, I beg you to read until the end—I will try my best not to bore you!
 
-You are here to develop your coding skills to a point where you can be useful to society to: 1️⃣ Get a job, 2️⃣ Create your own company, and 3️⃣ Adapt better to the current world.
+What You Already Know
+You are here to develop your coding skills to a point where you can be useful to society by:
+1️⃣ Getting a job,
+2️⃣ Creating your own company, and
+3️⃣ Adapting better to the current world.
 
-## What you did not know
+What You Didn’t Know
+You are also here because you need help—not just technical help, but spiritual help. And I say this in the most pragmatic way possible.
 
-You are also here because you need help, not only technical help, but also spiritual help, and I say this in the most pragmatic way possible.
+The biggest wall to becoming a developer is not in the syllabus or the content, but in your mind.
 
-> The biggest wall to becoming a developer is not in the syllabus or content but in your mind.
+We are about to change the way you learn, the way you approach life, and the way you present yourself (which, ultimately, shapes how you see yourself). We are tearing down old misconceptions about who you are, who others are, and what your professional life can be.
 
-We are about to change the way you learn, the way you approach life, and the way you sell yourself (therefore see yourself). We are tearing down old misconceptions about yourself, others, and your professional life.
+We Are Here to Tear Down the 💻 3 Walls Toward Code
+Over the past years, we have identified specific reasons that cause students to stop trying to become developers, fail to complete the course, or struggle to get a job.
 
-### We are here to tear down the 💻 3 Walls Toward Code 
-
-During the past years, we have identified specific reasons that cause students to stop trying to be developers or fail to complete the course, or get a job. 
-
-#### Wall #1: Confidence ❓ (Impostor syndrome)
+Wall #1: Confidence ❓ (Impostor Syndrome)
 
 ![Impostor Syndrome](https://github.com/breatheco-de/content/blob/master/src/assets/images/6cf4655f-665f-4f68-b021-f34238cedd69.png?raw=true)
 
